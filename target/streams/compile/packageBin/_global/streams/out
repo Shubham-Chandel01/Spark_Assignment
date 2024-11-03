@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/spark_assignment_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question3/ExportAggregator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question3/ExportAggregator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question3/ExportAggregatorDriver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question3/ExportAggregatorDriver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question3/ExportWriter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question3/ExportWriter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question3/ExportAggregatorDriver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question3/ExportAggregatorDriver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question3/ExportAggregatorDriver$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question3/ExportAggregatorDriver$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question3/ExportExtractor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question3/ExportExtractor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question3/ExportWriter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question3/ExportWriter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question3/ExportAggregator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question3/ExportAggregator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question3/ExportExtractor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question3/ExportExtractor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question2$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	question1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shubhamchandel/Downloads/Spark_Assignment/target/scala-2.12/classes/question1$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
